@@ -9678,3 +9678,8 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+    .custom-icon{ 
+      font-size: 32px;
+      font-weight: 700;
+      color: white;
+    }
